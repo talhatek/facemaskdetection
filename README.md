@@ -9,4 +9,4 @@ If you have improvements as well, please contribute !
 - You can use your front or back camera.
 
 ## Demo
-![demo](demo/demo.gif)
+![demo](demo/demo1.gif)
